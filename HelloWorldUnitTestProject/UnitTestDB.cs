@@ -2,7 +2,7 @@ using HelloWorldConsole.BLL;
 using HelloWorldConsole.Model;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Hello_WorldUnitTestProject
+namespace HelloWorldConsole.Test
 {
     [TestClass]
     public class UnitTestDB
