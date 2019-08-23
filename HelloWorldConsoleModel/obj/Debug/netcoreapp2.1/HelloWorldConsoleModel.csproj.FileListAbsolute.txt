@@ -1,0 +1,9 @@
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleModel\bin\Debug\netcoreapp2.1\HelloWorldConsoleModel.deps.json
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleModel\bin\Debug\netcoreapp2.1\HelloWorldConsoleModel.dll
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleModel\bin\Debug\netcoreapp2.1\HelloWorldConsoleModel.pdb
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleModel\obj\Debug\netcoreapp2.1\HelloWorldConsoleModel.csproj.CoreCompileInputs.cache
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleModel\obj\Debug\netcoreapp2.1\HelloWorldConsoleModel.AssemblyInfoInputs.cache
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleModel\obj\Debug\netcoreapp2.1\HelloWorldConsoleModel.AssemblyInfo.cs
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleModel\obj\Debug\netcoreapp2.1\HelloWorldConsoleModel.dll
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleModel\obj\Debug\netcoreapp2.1\HelloWorldConsoleModel.pdb
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleModel\obj\Debug\netcoreapp2.1\HelloWorldConsoleModel.csprojAssemblyReference.cache

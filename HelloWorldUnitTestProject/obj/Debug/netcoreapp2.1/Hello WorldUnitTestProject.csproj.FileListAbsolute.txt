@@ -1,0 +1,21 @@
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\bin\Debug\netcoreapp2.1\Hello WorldUnitTestProject.deps.json
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\bin\Debug\netcoreapp2.1\Hello WorldUnitTestProject.runtimeconfig.json
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\bin\Debug\netcoreapp2.1\Hello WorldUnitTestProject.runtimeconfig.dev.json
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\bin\Debug\netcoreapp2.1\Hello WorldUnitTestProject.dll
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\bin\Debug\netcoreapp2.1\Hello WorldUnitTestProject.pdb
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\bin\Debug\netcoreapp2.1\HelloWorldConsoleBLL.dll
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\bin\Debug\netcoreapp2.1\HelloWorldConsoleDAL.dll
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\bin\Debug\netcoreapp2.1\HelloWorldConsoleModel.dll
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\bin\Debug\netcoreapp2.1\HelloWorldConsoleBLL.pdb
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\bin\Debug\netcoreapp2.1\HelloWorldConsoleDAL.pdb
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\bin\Debug\netcoreapp2.1\HelloWorldConsoleModel.pdb
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\obj\Debug\netcoreapp2.1\Hello WorldUnitTestProject.csprojAssemblyReference.cache
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\obj\Debug\netcoreapp2.1\Hello WorldUnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\obj\Debug\netcoreapp2.1\Hello WorldUnitTestProject.AssemblyInfoInputs.cache
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\obj\Debug\netcoreapp2.1\Hello WorldUnitTestProject.AssemblyInfo.cs
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\obj\Debug\netcoreapp2.1\Hello WorldUnitTestProject.csproj.CopyComplete
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\obj\Debug\netcoreapp2.1\Hello WorldUnitTestProject.dll
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\Hello WorldUnitTestProject\obj\Debug\netcoreapp2.1\Hello WorldUnitTestProject.pdb

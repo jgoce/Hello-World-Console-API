@@ -1,0 +1,12 @@
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleDAL\bin\Debug\netcoreapp2.1\HelloWorldConsoleDAL.deps.json
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleDAL\bin\Debug\netcoreapp2.1\HelloWorldConsoleDAL.dll
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleDAL\obj\Debug\netcoreapp2.1\HelloWorldConsoleDAL.csprojAssemblyReference.cache
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleDAL\obj\Debug\netcoreapp2.1\HelloWorldConsoleDAL.csproj.CoreCompileInputs.cache
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleDAL\obj\Debug\netcoreapp2.1\HelloWorldConsoleDAL.AssemblyInfoInputs.cache
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleDAL\obj\Debug\netcoreapp2.1\HelloWorldConsoleDAL.AssemblyInfo.cs
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleDAL\bin\Debug\netcoreapp2.1\HelloWorldConsoleDAL.pdb
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleDAL\obj\Debug\netcoreapp2.1\HelloWorldConsoleDAL.dll
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleDAL\obj\Debug\netcoreapp2.1\HelloWorldConsoleDAL.pdb
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleDAL\bin\Debug\netcoreapp2.1\HelloWorldConsoleModel.dll
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleDAL\bin\Debug\netcoreapp2.1\HelloWorldConsoleModel.pdb
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleDAL\obj\Debug\netcoreapp2.1\HelloWorldConsoleDAL.csproj.CopyComplete

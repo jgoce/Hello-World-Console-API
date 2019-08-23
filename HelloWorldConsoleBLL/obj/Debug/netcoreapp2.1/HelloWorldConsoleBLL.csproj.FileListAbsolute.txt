@@ -1,0 +1,14 @@
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleBLL\bin\Debug\netcoreapp2.1\HelloWorldConsoleBLL.deps.json
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleBLL\bin\Debug\netcoreapp2.1\HelloWorldConsoleBLL.dll
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleBLL\bin\Debug\netcoreapp2.1\HelloWorldConsoleBLL.pdb
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleBLL\obj\Debug\netcoreapp2.1\HelloWorldConsoleBLL.csprojAssemblyReference.cache
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleBLL\obj\Debug\netcoreapp2.1\HelloWorldConsoleBLL.csproj.CoreCompileInputs.cache
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleBLL\obj\Debug\netcoreapp2.1\HelloWorldConsoleBLL.AssemblyInfoInputs.cache
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleBLL\obj\Debug\netcoreapp2.1\HelloWorldConsoleBLL.AssemblyInfo.cs
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleBLL\obj\Debug\netcoreapp2.1\HelloWorldConsoleBLL.dll
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleBLL\obj\Debug\netcoreapp2.1\HelloWorldConsoleBLL.pdb
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleBLL\bin\Debug\netcoreapp2.1\HelloWorldConsoleDAL.dll
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleBLL\bin\Debug\netcoreapp2.1\HelloWorldConsoleDAL.pdb
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleBLL\obj\Debug\netcoreapp2.1\HelloWorldConsoleBLL.csproj.CopyComplete
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleBLL\bin\Debug\netcoreapp2.1\HelloWorldConsoleModel.dll
+C:\Users\goce_\source\repos\HelloWorldConsoleAPI\HelloWorldConsoleBLL\bin\Debug\netcoreapp2.1\HelloWorldConsoleModel.pdb
